@@ -1,4 +1,4 @@
-# client
+# NetQuest frontend
 
 ## Project setup
 ```
