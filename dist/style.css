@@ -1,0 +1,15 @@
+.contents {
+  overflow: scroll;
+}
+
+.body {
+  overflow: hidden;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.a-canvas {
+  position: relative !important;
+}
